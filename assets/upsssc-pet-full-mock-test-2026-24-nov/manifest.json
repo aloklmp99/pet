@@ -1,0 +1,247 @@
+{
+  "title": "UPSSSC PET Full Mock Test 2026 - 24 Nov Edition",
+  "paper_id": 9,
+  "status": "draft",
+  "questions": 100,
+  "marks": 100,
+  "duration_minutes": 120,
+  "sections": [
+    [
+      "his",
+      5
+    ],
+    [
+      "nm",
+      5
+    ],
+    [
+      "geo",
+      5
+    ],
+    [
+      "eco",
+      5
+    ],
+    [
+      "pol",
+      5
+    ],
+    [
+      "sci",
+      5
+    ],
+    [
+      "ar",
+      5
+    ],
+    [
+      "hin",
+      5
+    ],
+    [
+      "eng",
+      5
+    ],
+    [
+      "rea",
+      5
+    ],
+    [
+      "ca",
+      10
+    ],
+    [
+      "ga",
+      10
+    ],
+    [
+      "pas",
+      10
+    ],
+    [
+      "gra",
+      10
+    ],
+    [
+      "tab",
+      10
+    ]
+  ],
+  "images": [
+    {
+      "question": 1,
+      "key": "q1",
+      "url": "https://pet.laasu.net/media/images/t-9-q1-df7668d1.png"
+    },
+    {
+      "question": 5,
+      "key": "q2",
+      "url": "https://pet.laasu.net/media/images/t-9-q2-f09a9da3.png"
+    },
+    {
+      "question": 6,
+      "key": "q3",
+      "url": "https://pet.laasu.net/media/images/t-9-q3-57987ee3.png"
+    },
+    {
+      "question": 9,
+      "key": "q4",
+      "url": "https://pet.laasu.net/media/images/t-9-q4-072fac35.png"
+    },
+    {
+      "question": 11,
+      "key": "q5",
+      "url": "https://pet.laasu.net/media/images/t-9-q5-580eeda1.png"
+    },
+    {
+      "question": 13,
+      "key": "q6",
+      "url": "https://pet.laasu.net/media/images/t-9-q6-20873fcc.png"
+    },
+    {
+      "question": 16,
+      "key": "q7",
+      "url": "https://pet.laasu.net/media/images/t-9-q7-e2fe8550.png"
+    },
+    {
+      "question": 17,
+      "key": "q8",
+      "url": "https://pet.laasu.net/media/images/t-9-q8-a8a4c676.png"
+    },
+    {
+      "question": 21,
+      "key": "q9",
+      "url": "https://pet.laasu.net/media/images/t-9-q9-69170cc7.png"
+    },
+    {
+      "question": 23,
+      "key": "q10",
+      "url": "https://pet.laasu.net/media/images/t-9-q10-b2885f42.png"
+    },
+    {
+      "question": 26,
+      "key": "q11",
+      "url": "https://pet.laasu.net/media/images/t-9-q11-6f2eae24.png"
+    },
+    {
+      "question": 28,
+      "key": "q12",
+      "url": "https://pet.laasu.net/media/images/t-9-q12-bf5467f3.png"
+    },
+    {
+      "question": 31,
+      "key": "q13",
+      "url": "https://pet.laasu.net/media/images/t-9-q13-6d8fe084.png"
+    },
+    {
+      "question": 36,
+      "key": "q14",
+      "url": "https://pet.laasu.net/media/images/t-9-q14-d454d335.png"
+    },
+    {
+      "question": 41,
+      "key": "q15",
+      "url": "https://pet.laasu.net/media/images/t-9-q15-525c773f.png"
+    },
+    {
+      "question": 81,
+      "key": "q16",
+      "url": "https://pet.laasu.net/media/images/t-9-q16-636456af.png"
+    },
+    {
+      "question": 82,
+      "key": "q17",
+      "url": "https://pet.laasu.net/media/images/t-9-q17-814d8980.png"
+    },
+    {
+      "question": 83,
+      "key": "q18",
+      "url": "https://pet.laasu.net/media/images/t-9-q18-0739925e.png"
+    },
+    {
+      "question": 84,
+      "key": "q19",
+      "url": "https://pet.laasu.net/media/images/t-9-q19-f56904e9.png"
+    },
+    {
+      "question": 85,
+      "key": "q20",
+      "url": "https://pet.laasu.net/media/images/t-9-q20-8b8532e5.png"
+    },
+    {
+      "question": 86,
+      "key": "q21",
+      "url": "https://pet.laasu.net/media/images/t-9-q21-f6cd39d1.png"
+    },
+    {
+      "question": 87,
+      "key": "q22",
+      "url": "https://pet.laasu.net/media/images/t-9-q22-d1b12cc2.png"
+    },
+    {
+      "question": 88,
+      "key": "q23",
+      "url": "https://pet.laasu.net/media/images/t-9-q23-952e7dcb.png"
+    },
+    {
+      "question": 89,
+      "key": "q24",
+      "url": "https://pet.laasu.net/media/images/t-9-q24-4df2c616.png"
+    },
+    {
+      "question": 90,
+      "key": "q25",
+      "url": "https://pet.laasu.net/media/images/t-9-q25-b06a2c28.png"
+    },
+    {
+      "question": 91,
+      "key": "q26",
+      "url": "https://pet.laasu.net/media/images/t-9-q26-1a28cfab.png"
+    },
+    {
+      "question": 92,
+      "key": "q27",
+      "url": "https://pet.laasu.net/media/images/t-9-q27-ca6c7365.png"
+    },
+    {
+      "question": 93,
+      "key": "q28",
+      "url": "https://pet.laasu.net/media/images/t-9-q28-39c7c601.png"
+    },
+    {
+      "question": 94,
+      "key": "q29",
+      "url": "https://pet.laasu.net/media/images/t-9-q29-3131dcb6.png"
+    },
+    {
+      "question": 95,
+      "key": "q30",
+      "url": "https://pet.laasu.net/media/images/t-9-q30-04fc9695.png"
+    },
+    {
+      "question": 96,
+      "key": "q31",
+      "url": "https://pet.laasu.net/media/images/t-9-q31-84c4ddb6.png"
+    },
+    {
+      "question": 97,
+      "key": "q32",
+      "url": "https://pet.laasu.net/media/images/t-9-q32-d83e50f7.png"
+    },
+    {
+      "question": 98,
+      "key": "q33",
+      "url": "https://pet.laasu.net/media/images/t-9-q33-261a99b6.png"
+    },
+    {
+      "question": 99,
+      "key": "q34",
+      "url": "https://pet.laasu.net/media/images/t-9-q34-2fc44a36.png"
+    },
+    {
+      "question": 100,
+      "key": "q35",
+      "url": "https://pet.laasu.net/media/images/t-9-q35-f2e30715.png"
+    }
+  ]
+}
